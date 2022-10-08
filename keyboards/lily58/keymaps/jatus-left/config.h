@@ -25,7 +25,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define MASTER_LEFT
 // #define MASTER_RIGHT
 #define EE_HANDS
-#define FORCE_NKRO
 
 #define TAPPING_FORCE_HOLD
 #define TAPPING_TERM 100
@@ -37,6 +36,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_HUE_STEP 10
 #define RGBLIGHT_SAT_STEP 17
 #define RGBLIGHT_VAL_STEP 17
+
 
 #define SPLIT_POINTING_ENABLE
 #define POINTING_DEVICE_RIGHT
